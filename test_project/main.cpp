@@ -1,7 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout<<"Hello, world!\n";
+    int x = 4 + 2;
+    cout << x / 3 << ' ' << x * 2;
+    // cout<<"Hello, world!\n";
+
     return 0;
 }
 
